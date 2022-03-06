@@ -1,0 +1,52 @@
+.btop {
+	height: auto;
+	width: auto;
+	margin-right: 10px;
+	margin-left: auto;
+	color: #FFF;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.bmenuh {
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #046AB7;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.bmenul {
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.bcorpor {
+	background-color: #FFF;
+	height: 657px;
+	width: 543px;
+	margin-right: auto;
+	margin-left: auto;
+	float: right;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.brodape {
+	background-color: #77797E;
+	height: auto;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+}
+.container {
+	height: auto;
+	width: 754px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(0,0,0,0);
+}
